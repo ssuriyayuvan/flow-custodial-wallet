@@ -1,0 +1,20 @@
+{
+  "name": "flow-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@onflow/fcl": "^1.11.0",
+    "@onflow/sdk": "^1.5.1",
+    "@onflow/types": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "elliptic": "^6.5.7",
+    "js-sha3": "^0.9.3"
+  }
+}
